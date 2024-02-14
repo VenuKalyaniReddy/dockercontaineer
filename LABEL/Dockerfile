@@ -1,4 +1,4 @@
-From almalinux:8
+FROM almalinux:8
 LABEL TRAINING= "Devops" \
       TRAINER = "Kalyani" \
       DURATION = 120HR \
